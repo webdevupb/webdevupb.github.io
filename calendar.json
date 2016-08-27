@@ -22,11 +22,11 @@
                   "course_instructor":  "(cu Dan Șerban)",
                   "course_date":        "20 nov. 2016"
                 },
-                { "course_description": "AngularJS #6 / Form Validation / Working With Reactive Streams",
+                { "course_description": "AngularJS #6 / Working With Reactive Streams (RxJS)",
                   "course_instructor":  "(cu Dan Șerban)",
                   "course_date":        "27 nov. 2016"
                 },
-                { "course_description": "AngularJS #7 / Socket.IO / Git / Continuous Integration",
+                { "course_description": "AngularJS #7 / Socket.IO / Git / GitHub",
                   "course_instructor":  "(cu Dan Șerban)",
                   "course_date":        "11 dec. 2016"
                 },
