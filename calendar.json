@@ -63,7 +63,7 @@
                   "course_instructor":  "(cu Dan Șerban)",
                   "course_date":        "26 nov. 2016"
                 },
-                { "course_description": "Web Scraping / Git / Docker / DockerHub / Continuous Integration",
+                { "course_description": "Git / GitHub / Docker / DockerHub / Microservices",
                   "course_instructor":  "(cu Dan Șerban)",
                   "course_date":        "10 dec. 2016"
                 },
