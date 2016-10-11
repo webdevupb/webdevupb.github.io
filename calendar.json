@@ -1,38 +1,30 @@
 { "frontend": [ { "course_description": "Single Page Applications",
                   "course_instructor":  "(cu Dan Șerban)",
-                  "course_date":        "16 oct. 2016"
+                  "course_date":        "5 nov. 2016"
                 },
                 { "course_description": "AngularJS #1 / Backend-less Single Page Applications",
                   "course_instructor":  "(cu Dan Șerban)",
-                  "course_date":        "23 oct. 2016"
+                  "course_date":        "6 nov. 2016"
                 },
                 { "course_description": "AngularJS #2 / AJAX / $http.get / $http.post",
                   "course_instructor":  "(cu Dan Șerban)",
-                  "course_date":        "30 oct. 2016"
+                  "course_date":        "12 nov. 2016"
                 },
-                { "course_description": "AngularJS #3 / Infinite Scrolling / Search Autocomplete / Drag And Drop / Interval Sliders",
-                  "course_instructor":  "(TBD)",
-                  "course_date":        "6 nov. 2016"
-                },
-                { "course_description": "AngularJS #4 / UI Router / AngularJS-Rails Integration",
+                { "course_description": "AngularJS #3 / UI Router / AngularJS-Rails Integration",
                   "course_instructor":  "(cu Dan Șerban)",
                   "course_date":        "13 nov. 2016"
+                },
+                { "course_description": "AngularJS #4 / Socket.IO / Three-Way Binding",
+                  "course_instructor":  "(cu Dan Șerban)",
+                  "course_date":        "19 nov. 2016"
                 },
                 { "course_description": "AngularJS #5 / Socket.IO / Three-Way Binding",
                   "course_instructor":  "(cu Dan Șerban)",
                   "course_date":        "20 nov. 2016"
                 },
-                { "course_description": "AngularJS #6 / Working With Reactive Streams (RxJS)",
-                  "course_instructor":  "(cu Dan Șerban)",
-                  "course_date":        "27 nov. 2016"
-                },
-                { "course_description": "AngularJS #7 / Socket.IO / Git / GitHub",
-                  "course_instructor":  "(cu Dan Șerban)",
-                  "course_date":        "11 dec. 2016"
-                },
                 { "course_description": "Hackathon Final",
                   "course_instructor":  "",
-                  "course_date":        "17-18 dec. 2016"
+                  "course_date":        "26-27 nov. 2016"
                 }
               ],
   "backend":  [ { "course_description": "Ruby on Rails #1 / Sneak Preview",
@@ -41,35 +33,27 @@
                 },
                 { "course_description": "Ruby on Rails #2 / Sneak Preview",
                   "course_instructor":  "(cu Dan Șerban)",
-                  "course_date":        "22 oct. 2016"
+                  "course_date":        "16 oct. 2016"
                 },
                 { "course_description": "Ruby #1 (Basic)",
                   "course_instructor":  "(cu Andrei Bocan)",
-                  "course_date":        "29 oct. 2016"
+                  "course_date":        "22 oct. 2016"
                 },
                 { "course_description": "Ruby #2 (Advanced)",
                   "course_instructor":  "(cu Andrei Bocan)",
-                  "course_date":        "5 nov. 2016"
+                  "course_date":        "23 oct. 2016"
                 },
-                { "course_description": "Ruby on Rails #3 / ActiveRecord Basics",
-                  "course_instructor":  "(cu Darius Neațu)",
-                  "course_date":        "12 nov. 2016"
-                },
-                { "course_description": "Ruby on Rails #4 / ActiveRecord / Data Modeling",
+                { "course_description": "Ruby on Rails #3 / Data Modeling",
                   "course_instructor":  "(cu Dan Șerban)",
-                  "course_date":        "19 nov. 2016"
-                },
-                { "course_description": "Ruby on Rails #5 / ActiveRecord Validations / Selenium / Rails Generators",
-                  "course_instructor":  "(cu Dan Șerban)",
-                  "course_date":        "26 nov. 2016"
+                  "course_date":        "29 oct. 2016"
                 },
                 { "course_description": "Git / GitHub / Docker / DockerHub / Microservices",
                   "course_instructor":  "(cu Dan Șerban)",
-                  "course_date":        "10 dec. 2016"
+                  "course_date":        "30 oct. 2016"
                 },
                 { "course_description": "Hackathon Final",
                   "course_instructor":  "",
-                  "course_date":        "17-18 dec. 2016"
+                  "course_date":        "26-27 nov. 2016"
                 }
               ]
 }
