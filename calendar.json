@@ -36,11 +36,11 @@
                   "course_date":        "16 oct. 2016"
                 },
                 { "course_description": "Ruby #1 (Basic)",
-                  "course_instructor":  "(cu Andrei Bocan)",
+                  "course_instructor":  "(cu Codruț Gușoi)",
                   "course_date":        "22 oct. 2016"
                 },
                 { "course_description": "Ruby #2 (Advanced)",
-                  "course_instructor":  "(cu Andrei Bocan)",
+                  "course_instructor":  "(cu Codruț Gușoi)",
                   "course_date":        "23 oct. 2016"
                 },
                 { "course_description": "Ruby on Rails #3 / Data Modeling",
